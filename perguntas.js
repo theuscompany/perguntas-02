@@ -1,23 +1,23 @@
 criaCartao(
-    'historia',
-    'Quem é o atual presidente do Brasil ?',
-    'LULA  #mofome #cadeapicanha??? '
+    'Historia',
+    'Quem foi responsável pela unificação da Alemanha em !871?',
+    'Otto von Bismarck'
 )
 
 criaCartao(
-    'Quimica',
-    'Qual é a formula da água?',
-    'H2O'
+    'Geografia',
+    'Qual país tem a maior extensão territorial do mundo?',
+    'A RÚSSIA'
 )
 
 criaCartao(
-    'Carro',
-    'Qual carro normalmente tem uma escada em cima',
-    'UNO'
+    'Matemática',
+    'Qual é o número primo que, quando multiplicado pelo próximo primo maior que ele,resulta em 143?',
+    '11'
 )
 
 criaCartao(
-    'História',
-    'Qual é o livro mais vendido do mundo?',
-    'Biblía'
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
 )
